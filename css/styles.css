@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#me{
+    height: 150px;
+    width: 150px;
+    border: 7px solid;
+    border-color: rgb(0, 119, 255);
+    border-radius: 600px;
+    margin-bottom: 20px;
+}
+#sidebar{
+    margin-top: 250px;
+    padding: 60px;
+    text-align: center;
+}
+.nav{
+    text-decoration: none;
+    color: white
+}
+.nav2{
+    text-decoration: none;
+}
+.nav2:hover{
+    color:red;
+}
+.nav:hover{
+    color: red;
+}
+.nome{
+    font-size: 60px;
+    color: black;
+    font-weight: 600;
+}
+.sobrenome{
+    color: blue;
+}
+.github{
+    height: 80px;
+    width: 80px;
+}
+header{
+    background-color: rgb(1, 1, 189);
+}
+body{
+    display: flex;
+    margin: 0;
+    min-height: 100vh;
+    font-family: 'Poppins', sans-serif;
+}
+main{
+    margin-top: 250px;
+    padding: 60px;
+}
+
+.section1{
+    font-size: xx-large;
+}
+
+img{
+    height: 80px;
+    width: 80px;
+}
